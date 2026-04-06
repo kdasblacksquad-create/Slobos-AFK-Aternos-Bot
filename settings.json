@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Zenakans-FIU7.aternos.me",
-    "port": 52024,
+    "ip": "Zenakans.aternos.me",
+    "port": 28013,
     "version": "",
     "try-creative": false
   },
